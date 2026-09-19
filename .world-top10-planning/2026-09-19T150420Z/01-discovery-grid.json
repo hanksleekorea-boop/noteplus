@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "project": "노트플러스",
+    "timestamp": "2026-09-19T15:04:20.987Z",
+    "version": "v3.3"
+  },
+  "engine_A": {
+    "domain_match": [
+      "노트 플러스",
+      "SaaS",
+      "Aggregator"
+    ],
+    "target_audience": "Global Users, Professionals",
+    "key_features": [
+      "클라우드 동기화",
+      "마크다운 지원",
+      "폴더링 시스템"
+    ],
+    "market_size_estimate": "$10B+",
+    "core_problem_solved": "아이디어를 기록하고 체계적으로 관리하세요."
+  }
+}
